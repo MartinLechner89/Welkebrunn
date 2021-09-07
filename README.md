@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">a developer and researcher from Berlin, Germany</h3>
 
-- 🌱 Check out our final project made at Le Wagon **Final Project: foodprintai - calculating the carbon footprint of food: https://foodprintai.herokuapp.com/**
-
-- 💬 Ask me about **AI, Big Data, Ethics and China :)**
+🌱 Check out our final project made at Le Wagon **Final Project: foodprintai - calculating the carbon footprint of food: https://foodprintai.herokuapp.com/**
+💬 Ask me about **AI, Big Data, Ethics and China :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
