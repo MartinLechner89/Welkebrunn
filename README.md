@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">a developer and researcher from Berlin, Germany</h3>
+<h3 align="center">a Data Scientist and Sinologist from Berlin, Germany</h3>
 
 🌱 Check out our **Final Project: foodprintai - calculating the carbon footprint of food: https://foodprintai.herokuapp.com/** <br>
 💬 Ask me about **AI, Big Data, Ethics and China :)**
